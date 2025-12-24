@@ -1,0 +1,12 @@
+# macOS system files
+.DS_Store
+
+# Compiled binary
+typofixer
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.out
+*.o
